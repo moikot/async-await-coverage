@@ -1,0 +1,8 @@
+.vs
+Coverage
+**/bin
+**/obj
+**/*.user
+**/launchSettings.json
+**/testOutput
+**/testResults
